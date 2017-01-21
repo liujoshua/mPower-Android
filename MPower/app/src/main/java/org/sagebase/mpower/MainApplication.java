@@ -5,6 +5,7 @@ import android.support.multidex.MultiDex;
 
 import org.researchstack.skin.ResearchStack;
 import org.sagebionetworks.bridge.android.BridgeApplication;
+import org.sagebionetworks.bridge.android.BridgeConfig;
 import org.sagebionetworks.bridge.researchstack.MPowerResearchStack;
 
 /**

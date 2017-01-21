@@ -98,7 +98,7 @@
                 android:layout_alignParentBottom="true"
                 android:background="@color/colorAccent"
                 android:gravity="center"
-                android:orientation="horizontal"></LinearLayout>
+                android:orientation="horizontal" />
         </RelativeLayout>
     </FrameLayout>
 

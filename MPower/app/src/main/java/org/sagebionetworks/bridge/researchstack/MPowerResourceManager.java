@@ -91,6 +91,11 @@ public class MPowerResourceManager extends ResourceManager {
     }
 
     @Override
+    public Resource getOnboardingManager() {
+        return null;
+    }
+
+    @Override
     public String generatePath(int type, String name) {
         String dir;
         switch (type) {
